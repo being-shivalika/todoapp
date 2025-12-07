@@ -1,18 +1,40 @@
-# React + Vite
+React To-Do App (Basic Practice)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a basic React To-Do App UI made while learning the fundamentals of React.
+It covers simple components, JSX structure, and basic styling.
+This project was created as a practice task and does not include full functionality yet.
 
-Currently, two official plugins are available:
+📌 What This Project Includes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A title
+Input field for adding a task
+Date picker
+Buttons for Add and Delete
+Two sample static todo items
+Basic layout and CSS styling
+This project is focused only on understanding React components, not building a full working todo app.
 
-## React Compiler
+📁 Folder Structure
+src/
+ Components/
+  Appname.jsx
+  Addtodo.jsx
+  Todoitem1.jsx
+  Todoitem2.jsx
+App.jsx
+App.css
+main.jsx
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
 
-Note: This will impact Vite dev & build performances.
+📝 Purpose
 
-## Expanding the ESLint configuration
+This project was made as a practice task to get comfortable with:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Creating React components
+
+Importing/exporting components
+
+Basic JSX
+
+Arranging UI layout
+<img width="778" height="552" alt="Screenshot 2025-12-03 192449" src="https://github.com/user-attachments/assets/271b4adf-8911-4570-b525-0b4730b3735f" />
