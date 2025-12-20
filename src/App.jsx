@@ -22,7 +22,7 @@ function App() {
     <>
       <Appname />
       <Addtodo />
-      <TodoItems todoItems={todoitems}></TodoItems>
+      <TodoItems todoItems={todoitems} key={TodoItems}></TodoItems>
     </>
   );
 }
