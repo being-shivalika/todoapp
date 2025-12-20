@@ -14,17 +14,6 @@ Two sample static todo items
 Basic layout and CSS styling
 This project is focused only on understanding React components, not building a full working todo app.
 
-📁 Folder Structure
-src/
- Components/
-  Appname.jsx
-  Addtodo.jsx
-  Todoitem1.jsx
-  Todoitem2.jsx
-App.jsx
-App.css
-main.jsx
-
 
 📝 Purpose
 
